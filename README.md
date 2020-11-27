@@ -1,0 +1,2 @@
+# MultivariateStockPriceData
+This is the Github repository containing the code and report for the project on multivariate analysis of Stock price data (available in Johnson and Wichern), primarily using Factor Analysis based on Orthogonal Factor Model, as part of the coursework on Multivariate Analysis during the 2nd Semester of M.Stat at Indian Statistical Institute, New Delhi under Professor Swagata Nandi.
